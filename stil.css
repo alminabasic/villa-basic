@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    margin-right: 0;
+}
+
+.navbar-nav{
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.kolona{  
+    margin-top: 2px;
+}
+
+
+.bg-light {
+    background-color: #71b0df!important;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 600px){
+    
+}
